@@ -27,12 +27,3 @@ def ask_for_input():
     #This is calling the function inside this function to check if the guess is in the word outside the loop
 
 ask_for_input()
-
-
-
-
-
-
-
-
-
