@@ -21,6 +21,7 @@ class Hangman:
             else:
                 self.list_of_guesses.append(guess)
                 self.check_guess(guess)
+                break
 
     def check_guess(self, guess):
 
